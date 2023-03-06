@@ -8,7 +8,6 @@ view of vehicle details including price and address.
 - REST API exploring the main HTTP verbs and features
 - Hateoas
 - Custom API Error handling using `ControllerAdvice`
-- Swagger API docs
 - HTTP WebClient
 - MVC Test
 - Automatic model mapping
